@@ -1,0 +1,96 @@
+Almond
+Brazil nut
+Cashew
+Chestnut
+Cocoa
+Coconut
+Cotton seed
+Flax seed
+linseed
+Hazelnut
+Mustard
+Peanut
+groundnuts
+monkey nuts
+Pecan
+Pine nut
+Poppy seed
+Sesame
+Sunflower seed
+Walnut
+Barley
+Buckwheat
+Maize
+Corn Maize
+corn
+Oat
+Rice
+Rye
+Wheat
+Kamut
+spelt
+Castor bean
+Chickpea
+garbanzo
+bengal gram
+Lentil
+Lupin
+Lupine
+Soybean
+Soya
+Acerola
+Apple
+Apricot
+Avocado
+Banana
+Cherry
+Coconut
+Date
+Fig
+Garden Plum
+Garden plum
+Grape
+Kiwi Fruit
+Chinese gooseberry
+Lychee
+Mango
+Melon
+Peach
+Pear
+Persimmon
+Pineapple
+Pomegranate
+Strawberry
+Tomato
+Bell Pepper
+Cabbage
+Carrot
+Celery
+Courgette
+Zucchini
+Garlic
+Lettuce
+Potato
+Pumpkin
+Tomato
+Turnip
+Aniseed
+Camomile
+Mustard
+Abalone
+perlemoen
+Crab
+Lobster
+Oyster
+Crab
+Shrimp
+Snail
+Squid
+Alaska Pollock
+Carp
+Cod
+Mackerel
+Salmon
+Tuna
+Egg
+Milk
